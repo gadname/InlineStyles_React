@@ -1,6 +1,6 @@
 export const InlineStyle = () => {
   const containerStyle = {
-    border: "solid 2px #392eff",っっs
+    border: "solid 2px #392eff",
     borderRadius: "20px",
     padding: "8px",
     margin: "8px",
